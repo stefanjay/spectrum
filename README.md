@@ -1,8 +1,6 @@
 # Spectrum
 ## fork of the deprecated Spectacle app
 
-[![Build Status](https://travis-ci.org/eczarny/Spectrum.svg?branch=master)](https://travis-ci.org/eczarny/Spectrum)
-
 Easily organize windows without using a mouse.
 
 ## Important Note
